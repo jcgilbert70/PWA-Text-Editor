@@ -71,7 +71,7 @@ THEN I should have proper build scripts for a webpack application
 
    ## Screenshot
 
-  <img src="../assets/img/Capture.PNG">
+  <img src="./assets/img/Capture.PNG">
   
 
   ## Links
