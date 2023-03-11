@@ -9,14 +9,6 @@
  
  This is a single page application text editor. It operates using PWA criteria. The application is deployed using Heroku (link provided below)
   
-## User Story
-
-```md
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
-```
-
 ## Acceptance Criteria
 
 ```md
